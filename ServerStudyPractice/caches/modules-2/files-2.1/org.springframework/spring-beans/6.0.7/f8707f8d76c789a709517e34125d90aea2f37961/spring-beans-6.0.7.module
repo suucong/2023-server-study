@@ -1,0 +1,82 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "org.springframework",
+    "module": "spring-beans",
+    "version": "6.0.7",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.6"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.springframework",
+          "module": "spring-core",
+          "version": {
+            "requires": "6.0.7"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "spring-beans-6.0.7.jar",
+          "url": "spring-beans-6.0.7.jar",
+          "size": 846447,
+          "sha512": "28e13ac34adbce41a220fa78681957bfd6f9282c40da7321017bb7566bf94c1df94c2f5c6b0a12a7fdcce08c1b8faf31b2cfe0aa20ac2c30ef754d043337358a",
+          "sha256": "d20401b8718f215be7c5d87a6e42a440b8ab023438780d2059c789ceb3a1520b",
+          "sha1": "1abeec454cd1a2a40cff11ed5c388228eb021871",
+          "md5": "6cbcb47a8b1d49c870a2a7e9d72b66b5"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.springframework",
+          "module": "spring-core",
+          "version": {
+            "requires": "6.0.7"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "spring-beans-6.0.7.jar",
+          "url": "spring-beans-6.0.7.jar",
+          "size": 846447,
+          "sha512": "28e13ac34adbce41a220fa78681957bfd6f9282c40da7321017bb7566bf94c1df94c2f5c6b0a12a7fdcce08c1b8faf31b2cfe0aa20ac2c30ef754d043337358a",
+          "sha256": "d20401b8718f215be7c5d87a6e42a440b8ab023438780d2059c789ceb3a1520b",
+          "sha1": "1abeec454cd1a2a40cff11ed5c388228eb021871",
+          "md5": "6cbcb47a8b1d49c870a2a7e9d72b66b5"
+        }
+      ]
+    }
+  ]
+}

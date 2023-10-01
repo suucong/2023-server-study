@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8f7663d5-68a8-47dc-b6cf-1839309e21c6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ServerStudyPractice/src/main/java/com/sujin/book/springboot/domain/BaseTimeEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServerStudyPractice/src/main/java/com/sujin/book/springboot/domain/posts/Posts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServerStudyPractice/src/main/java/com/sujin/book/springboot/domain/posts/PostsRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServerStudyPractice/src/main/java/com/sujin/book/springboot/service/posts/PostsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServerStudyPractice/src/main/java/com/sujin/book/springboot/web/PostsApiController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServerStudyPractice/src/main/java/com/sujin/book/springboot/web/dto/PostsResponseDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServerStudyPractice/src/main/java/com/sujin/book/springboot/web/dto/PostsSaveRequestDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServerStudyPractice/src/main/java/com/sujin/book/springboot/web/dto/PostsUpdateRequestDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServerStudyPractice/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServerStudyPractice/src/test/java/com/sujin/book/springboot/domain/posts/PostsRepositoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServerStudyPractice/src/test/java/com/sujin/book/springboot/web/PostsApiControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerStudyPractice/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/ServerStudyPractice/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerStudyPractice/src/main/java/com/sujin/book/springboot/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/ServerStudyPractice/src/main/java/com/sujin/book/springboot/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerStudyPractice/src/test/java/com/sujin/book/springboot/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/ServerStudyPractice/src/test/java/com/sujin/book/springboot/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week 1/server-name.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/ServerStudyPractice">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/ServerStudyPractice">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/main" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="study/main" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="proportion" value="0.1" />
+    <option name="selectedTabId" value="CurrentFile" />
+    <option name="showPreview" value="true" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2VfEwY5bkxzbQtimemE5Bbu6PlU" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "android.gradle.sync.needed": "true",
+    "git-widget-placeholder": "CH3",
+    "ignore_missing_gitignore": "true",
+    "last_opened_file_path": "/Users/rohsujin/Desktop/GDSC_SERVER_STUDY/suucong/SpringBoot/SpringBootPractice",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
+    "spring.configuration.checksum": "e35f8ce69bbfeda42eb3b889abc2cdb3",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/suucong/SpringBoot/SpringBootPractice" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ServerStudyPractice" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/suucong/SpringBoot" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Application">
+    <configuration name="/Users/rohsujin/Desktop/GDSC_SERVER_STUDY/ServerStudyPractice/build.gradle" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/ServerStudyPractice/build.gradle" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="PostsApiControllerTest.Posts_수정된다" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ServerStudyPractice.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sujin.book.springboot.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sujin.book.springboot.web" />
+      <option name="MAIN_CLASS_NAME" value="com.sujin.book.springboot.web.PostsApiControllerTest" />
+      <option name="METHOD_NAME" value="Posts_수정된다" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PostsRepositoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ServerStudyPractice.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sujin.book.springboot.domain.posts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sujin.book.springboot.domain.posts" />
+      <option name="MAIN_CLASS_NAME" value="com.sujin.book.springboot.domain.posts.PostsRepositoryTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PostsRepositoryTest.BaseTimeEntity_등록" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ServerStudyPractice.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sujin.book.springboot.domain.posts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sujin.book.springboot.domain.posts" />
+      <option name="MAIN_CLASS_NAME" value="com.sujin.book.springboot.domain.posts.PostsRepositoryTest" />
+      <option name="METHOD_NAME" value="BaseTimeEntity_등록" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="ServerStudyPractice.test" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sujin.book.springboot.Application" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sujin.book.springboot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="19" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="GDSC_SERVER_STUDY_TEST" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sujin.book.springboot.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle./Users/rohsujin/Desktop/GDSC_SERVER_STUDY/ServerStudyPractice/build.gradle" />
+        <item itemvalue="JUnit.PostsRepositoryTest.BaseTimeEntity_등록" />
+        <item itemvalue="JUnit.PostsRepositoryTest" />
+        <item itemvalue="Spring Boot.Application (1)" />
+        <item itemvalue="JUnit.PostsApiControllerTest.Posts_수정된다" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f7663d5-68a8-47dc-b6cf-1839309e21c6" name="Changes" comment="" />
+      <created>1695218973541</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695218973541</updated>
+      <workItem from="1695218974608" duration="2073000" />
+      <workItem from="1695563829603" duration="21000" />
+      <workItem from="1695604393759" duration="647000" />
+      <workItem from="1695605058448" duration="797000" />
+      <workItem from="1695605859469" duration="40000" />
+      <workItem from="1695605907596" duration="316000" />
+      <workItem from="1695606232017" duration="94000" />
+      <workItem from="1695606335096" duration="2654000" />
+      <workItem from="1695609025231" duration="1951000" />
+      <workItem from="1695610989546" duration="651000" />
+      <workItem from="1695611646411" duration="873000" />
+      <workItem from="1695612530686" duration="158000" />
+      <workItem from="1695612696373" duration="5032000" />
+      <workItem from="1695639464589" duration="858000" />
+      <workItem from="1696054978178" duration="16000" />
+      <workItem from="1696055304694" duration="602000" />
+      <workItem from="1696055917007" duration="835000" />
+      <workItem from="1696056893204" duration="986000" />
+      <workItem from="1696057885485" duration="67000" />
+      <workItem from="1696122012797" duration="16961000" />
+      <workItem from="1696146929681" duration="3338000" />
+      <workItem from="1696166193892" duration="76000" />
+      <workItem from="1696166273000" duration="61000" />
+      <workItem from="1696166354282" duration="253000" />
+      <workItem from="1696166665316" duration="1722000" />
+      <workItem from="1696172889971" duration="126000" />
+      <workItem from="1696173021661" duration="43000" />
+      <workItem from="1696173111866" duration="253000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
