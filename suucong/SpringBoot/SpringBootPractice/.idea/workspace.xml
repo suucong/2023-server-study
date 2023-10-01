@@ -4,37 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7be3e5dc-5b0a-4f8f-b849-17a9fe52c28b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sujin/book/springboot/domain/BaseTimeEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sujin/book/springboot/domain/posts/Posts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sujin/book/springboot/domain/posts/PostsRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sujin/book/springboot/service/posts/PostsService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sujin/book/springboot/web/PostsApiController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sujin/book/springboot/web/dto/PostsResponseDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sujin/book/springboot/web/dto/PostsSaveRequestDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sujin/book/springboot/web/dto/PostsUpdateRequestDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/sujin/book/springboot/domain/posts/PostsRepositoryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/sujin/book/springboot/web/PostsApiControllerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../.gitattributes.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../ServerStudyPractice/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../ServerStudyPractice/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../ServerStudyPractice/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../ServerStudyPractice/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../ServerStudyPractice/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../ServerStudyPractice/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../ServerStudyPractice/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../ServerStudyPractice/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../ServerStudyPractice/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../ServerStudyPractice/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../ServerStudyPractice/src/main/java/com/sujin/book/springboot/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/sujin/book/springboot/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../ServerStudyPractice/src/main/java/com/sujin/book/springboot/web/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sujin/book/springboot/web/HelloController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../ServerStudyPractice/src/main/java/com/sujin/book/springboot/web/dto/HelloResponseDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sujin/book/springboot/web/dto/HelloResponseDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../ServerStudyPractice/src/test/java/com/sujin/book/springboot/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sujin/book/springboot/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../ServerStudyPractice/src/test/java/com/sujin/book/springboot/web/HelloControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/sujin/book/springboot/web/HelloControllerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../ServerStudyPractice/src/test/java/com/sujin/book/springboot/web/dto/HelloResponseDtoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/sujin/book/springboot/web/dto/HelloResponseDtoTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../week 1/server-name.html" beforeDir="false" />
-    </list>
+    <list default="true" id="7be3e5dc-5b0a-4f8f-b849-17a9fe52c28b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,9 +18,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2WBHVr45U3msGMO6lYQtQb2Qs8F" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
@@ -62,6 +32,7 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "CH3",
     "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
+    "spring.configuration.checksum": "39b8108a0bb06e309a582e5986f53ae0",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -74,6 +45,7 @@
       <option name="presentableId" value="Default" />
       <updated>1696199079710</updated>
       <workItem from="1696199080821" duration="43000" />
+      <workItem from="1696199370274" duration="31000" />
     </task>
     <servers />
   </component>
