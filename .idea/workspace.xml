@@ -5,20 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44b4eb75-a9cc-46d6-868d-e96d722b5f03" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/suucong/SpringBoot/SpringBootPractice/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/suucong/SpringBoot/SpringBootPractice/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/suucong/SpringBoot/SpringBootPractice/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/suucong/SpringBoot/SpringBootPractice/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/suucong/SpringBoot/SpringBootPractice/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/suucong/SpringBoot/SpringBootPractice/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/suucong/SpringBoot/SpringBootPractice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/suucong/SpringBoot/SpringBootPractice/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/suucong/SpringBoot/SpringBootPractice/caches/journal-1/journal-1.lock" beforeDir="false" afterPath="$PROJECT_DIR$/suucong/SpringBoot/SpringBootPractice/caches/journal-1/journal-1.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/suucong/SpringBoot/SpringBootPractice/daemon/8.2/registry.bin" beforeDir="false" afterPath="$PROJECT_DIR$/suucong/SpringBoot/SpringBootPractice/daemon/8.2/registry.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/suucong/SpringBoot/SpringBootPractice/daemon/8.2/registry.bin.lock" beforeDir="false" afterPath="$PROJECT_DIR$/suucong/SpringBoot/SpringBootPractice/daemon/8.2/registry.bin.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/suucong/SpringBoot/SpringBootPractice/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/suucong/SpringBoot/SpringBootPractice/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/GDSC_SERVER_STUDY.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/GDSC_SERVER_STUDY.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/suucong/SpringBoot/SpringBootPractice/src/test/java/com/sujin/book/springboot/web/ProductsApiControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/suucong/SpringBoot/SpringBootPractice/src/test/java/com/sujin/book/springboot/web/ProductsApiControllerTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,13 +35,42 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="CH5" />
+                    <option name="lastUsedInstant" value="1696584485" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="CH4" />
+                    <option name="lastUsedInstant" value="1696583323" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="CH3_2" />
+                    <option name="lastUsedInstant" value="1696583322" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2WNngLDMZ1m1aQPUmPm7ZF00QbV" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
@@ -65,15 +84,79 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "CH3__2",
+    "git-widget-placeholder": "CH5",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
+    "spring.configuration.checksum": "39b8108a0bb06e309a582e5986f53ae0",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/suucong/SpringBoot" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ProductsApiControllerTest.Products_수정된다">
+    <configuration name="ProductsApiControllerTest.Products_등록된다" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/suucong/SpringBoot/SpringBootPractice" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;com.sujin.book.springboot.web.ProductsApiControllerTest.Products_등록된다&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="ProductsApiControllerTest.Products_등록된다" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringBootPractice.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sujin.book.springboot.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sujin.book.springboot.web" />
+      <option name="MAIN_CLASS_NAME" value="com.sujin.book.springboot.web.ProductsApiControllerTest" />
+      <option name="METHOD_NAME" value="Products_등록된다" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductsApiControllerTest.Products_수정된다" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringBootPractice.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sujin.book.springboot.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sujin.book.springboot.web" />
+      <option name="MAIN_CLASS_NAME" value="com.sujin.book.springboot.web.ProductsApiControllerTest" />
+      <option name="METHOD_NAME" value="Products_수정된다" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="SpringBootPractice.main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.sujin.book.springboot.Application" />
@@ -81,6 +164,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ProductsApiControllerTest.Products_수정된다" />
+        <item itemvalue="JUnit.ProductsApiControllerTest.Products_등록된다" />
+        <item itemvalue="Gradle.ProductsApiControllerTest.Products_등록된다" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -91,10 +181,37 @@
       <option name="presentableId" value="Default" />
       <updated>1696582016004</updated>
       <workItem from="1696582017074" duration="435000" />
+      <workItem from="1696582534439" duration="1990000" />
+      <workItem from="1696584541261" duration="19000" />
+      <workItem from="1696585169997" duration="66000" />
+      <workItem from="1696841958985" duration="2378000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="CH4" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
