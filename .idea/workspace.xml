@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44b4eb75-a9cc-46d6-868d-e96d722b5f03" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/GDSC_SERVER_STUDY.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/GDSC_SERVER_STUDY.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/suucong/SpringBoot/SpringBootPractice/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/suucong/SpringBoot/SpringBootPractice/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/suucong/SpringBoot/SpringBootPractice/src/test/java/com/sujin/book/springboot/web/ProductsApiControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/suucong/SpringBoot/SpringBootPractice/src/test/java/com/sujin/book/springboot/web/ProductsApiControllerTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +23,9 @@
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
+        <task path="$PROJECT_DIR$/suucong/SpringBoot/SpringBootPractice">
+          <activation />
+        </task>
         <projects_view>
           <tree_state>
             <expand />
@@ -75,32 +78,33 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "CH5",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
-    "spring.configuration.checksum": "39b8108a0bb06e309a582e5986f53ae0",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;CH5&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;39b8108a0bb06e309a582e5986f53ae0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/suucong/SpringBoot" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ProductsApiControllerTest.Products_수정된다">
+  <component name="RunManager" selected="JUnit.ProductsApiControllerTest">
     <configuration name="ProductsApiControllerTest.Products_등록된다" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -124,6 +128,21 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <RunAsTest>true</RunAsTest>
       <method v="2" />
+    </configuration>
+    <configuration name="ProductsApiControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringBootPractice.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sujin.book.springboot.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sujin.book.springboot.web" />
+      <option name="MAIN_CLASS_NAME" value="com.sujin.book.springboot.web.ProductsApiControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="ProductsApiControllerTest.Products_등록된다" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SpringBootPractice.test" />
@@ -166,7 +185,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ProductsApiControllerTest.Products_수정된다" />
+        <item itemvalue="JUnit.ProductsApiControllerTest" />
         <item itemvalue="JUnit.ProductsApiControllerTest.Products_등록된다" />
         <item itemvalue="Gradle.ProductsApiControllerTest.Products_등록된다" />
       </list>
@@ -184,7 +203,12 @@
       <workItem from="1696582534439" duration="1990000" />
       <workItem from="1696584541261" duration="19000" />
       <workItem from="1696585169997" duration="66000" />
-      <workItem from="1696841958985" duration="2378000" />
+      <workItem from="1696841958985" duration="5307000" />
+      <workItem from="1698729082682" duration="61000" />
+      <workItem from="1698729774091" duration="1507000" />
+      <workItem from="1698731636267" duration="3644000" />
+      <workItem from="1699194155230" duration="376000" />
+      <workItem from="1699194541334" duration="775000" />
     </task>
     <servers />
   </component>
@@ -202,7 +226,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="CH4" />
+                        <option value="CH5" />
                       </list>
                     </value>
                   </entry>

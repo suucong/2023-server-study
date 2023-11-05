@@ -2,7 +2,6 @@ package com.sujin.book.springboot.web;
 
 import com.sujin.book.springboot.domain.products.Products;
 import com.sujin.book.springboot.domain.products.ProductsRepository;
-import com.sujin.book.springboot.web.dto.PostsUpdateRequestDto;
 import com.sujin.book.springboot.web.dto.ProductsSaveRequestDto;
 import com.sujin.book.springboot.web.dto.ProductsUpdateRequestDto;
 import org.junit.After;
