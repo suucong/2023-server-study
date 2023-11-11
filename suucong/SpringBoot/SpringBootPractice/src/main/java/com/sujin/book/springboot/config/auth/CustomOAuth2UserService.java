@@ -1,5 +1,6 @@
 package com.sujin.book.springboot.config.auth;
 
+import com.sujin.book.springboot.config.auth.dto.OAuthAttributes;
 import com.sujin.book.springboot.domain.user.User;
 import com.sujin.book.springboot.domain.user.UserRepository;
 import jakarta.servlet.http.HttpSession;
