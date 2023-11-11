@@ -2,3 +2,5 @@
 /.idea/
 ### Mac OS ###
 .DS_Store
+### OAuth ###
+application-oauth.properties
