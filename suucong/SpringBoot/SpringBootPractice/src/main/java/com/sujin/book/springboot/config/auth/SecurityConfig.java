@@ -2,10 +2,10 @@ package com.sujin.book.springboot.config.auth;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.context.annotation.Bean;
-import org.springframework.context.annotation.Role;
+import com.sujin.book.springboot.domain.user.Role;
 import org.springframework.security.config.annotation.web.builders.HttpSecurity;
-import org.springframework.security.config.annotation.web.configuration.
 import org.springframework.security.config.annotation.web.configuration.EnableWebSecurity;
+import org.springframework.security.web.SecurityFilterChain;
 
 @RequiredArgsConstructor
 @EnableWebSecurity  // Spring Security 설정들 활성화
@@ -13,8 +13,8 @@ public class SecurityConfig {
     private final CustomOAuth2UserService customOAuth2UserService;
 
     @Bean
-    protected void configure(HttpSecurity http) throws Exception {
-        http
+    protected SecurityFilterChain filterChain(HttpSecurity http) throws Exception {
+        return http
                 .csrf().disable()
                 .headers().frameOptions().disable()
                 .and()
@@ -28,6 +28,6 @@ public class SecurityConfig {
                 .and()
                     .oauth2Login()  //
                         .userInfoEndpoint()
-                            .userService(customOAuth2UserService);
+                            .userService(customOAuth2UserService).and().and().build();
     }
 }
