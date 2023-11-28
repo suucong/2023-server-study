@@ -1,12 +1,11 @@
 package com.sujin.book.springboot.domain.user;
 
 import com.sujin.book.springboot.domain.BaseTimeEntity;
-import jakarta.persistence.*;
 import lombok.Builder;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 
-import java.lang.annotation.Target;
+import javax.persistence.*;
 
 @Getter
 @NoArgsConstructor

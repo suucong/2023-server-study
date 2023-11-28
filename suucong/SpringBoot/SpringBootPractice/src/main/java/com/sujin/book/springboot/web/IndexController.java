@@ -3,7 +3,7 @@ package com.sujin.book.springboot.web;
 import com.sujin.book.springboot.config.auth.dto.SessionUser;
 import com.sujin.book.springboot.service.posts.PostsService;
 import com.sujin.book.springboot.web.dto.PostsResponseDto;
-import jakarta.servlet.http.HttpSession;
+import javax.servlet.http.HttpSession;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
